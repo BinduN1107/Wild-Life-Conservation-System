@@ -1,2 +1,5 @@
 # wild-life-conservation
-The project titled wild life conservation is a web development projects and is made using html,css,php,bs4. 
+This is a web based project on wild life conservation system.
+Technology Stack : BS4, CSS, PHP, MySQL
+Software Used: Xampp
+
